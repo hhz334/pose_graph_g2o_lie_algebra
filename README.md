@@ -1,0 +1,2 @@
+# pose_graph_g2o_lie_algebra
+位姿图李代数实现代码，包含数据和源代码
